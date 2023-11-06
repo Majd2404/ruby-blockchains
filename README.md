@@ -116,8 +116,11 @@ RFC 3339: This is a timestamping format that is defined by the Internet Engineer
 Here are some examples of timestamps in each format:
 
 YYYY-MM-DD HH:MM:SS: 2023-11-07 12:00:00
+
 YYYY-MM-DDTHH:MM:SSZ: 2023-11-07T12:00:00Z
+
 Unix epoch time: 1668038400
+
 RFC 3339: 2023-11-07T12:00:00+00:00
 
 
