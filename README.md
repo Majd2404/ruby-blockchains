@@ -110,9 +110,13 @@ Timestamping in blockchain is the process of recording the date and time of a di
 Here are some examples of timestamping formats:
 
 YYYY-MM-DD HH:MM:SS: This is the most common timestamping format. It is used by many programming languages and operating systems.
+
 YYYY-MM-DDTHH:MM:SSZ: This is an ISO 8601 timestamping format. It is used by many web services and APIs.
+
 Unix epoch time: This is a timestamping format that represents the number of seconds elapsed since the Unix epoch (January 1, 1970, at 00:00:00 UTC).
+
 RFC 3339: This is a timestamping format that is defined by the Internet Engineering Task Force (IETF). It is used by many email clients and web servers.
+
 Here are some examples of timestamps in each format:
 
 YYYY-MM-DD HH:MM:SS: 2023-11-07 12:00:00
